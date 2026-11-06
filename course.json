@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P21",
+  "repository": "icb-p21-building-business-case-credential-programme",
+  "repository_url": "https://github.com/ICoBC/icb-p21-building-business-case-credential-programme",
+  "title": "Building the Business Case for a Credential Programme",
+  "subtitle": "Purpose, value, costs and success measures that a sponsor will approve.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Credential strategy and value",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-STRV-L3-A",
+  "badge_name": "Building the Business Case for a Credential Programme (Ability, L3)",
+  "hours": "6",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p21/",
+  "parts": [
+    "About this course",
+    "Problem and purpose",
+    "Value for three parties",
+    "Costs",
+    "Benefits and evidence",
+    "The case document",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
